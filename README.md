@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Nishad</h1>
 <h3 align="center">A software engineer who is deeply passionate about Kali Linux & Flutter development.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i2.wp.com/cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif"
+<img align="right" alt="coding" width="400" src="https://i2.wp.com/cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksbyte&label=Profile%20views&color=0e75b6&style=flat" alt="aksbyte" /> </p>
 
