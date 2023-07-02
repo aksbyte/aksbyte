@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/aksbyte/aksbyte/blob/main/1.png)
-h1 align="center">Hi 👋, I'm Akshay Nishad</h1>
+<h1> align="center">Hi 👋, I'm Akshay Nishad</h1>
 <h3 align="center">A software engineer who is deeply passionate about Kali Linux & Flutter development.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif">
